@@ -7,8 +7,8 @@
 <title>Hello World web application</title>
 </head>
 <body>
-   	today is 1st march 2022 siva sai karthik
-	<h1>Thanks a lot for being so patient jshfjjhak</h1>
+   	today is 1st march 2022 edited by karthik
+	<h1>Thanks a lot for being so patient </h1>
     	<form action="helloServlet" method="post">
     	Enter your name: <input type="text" name="username" size="20">
     	<input type="submit" value="Call Servlet" />
